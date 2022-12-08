@@ -1,0 +1,14 @@
+.table thead{
+	background: #337ab7;
+	color: white;
+}
+.align-center{
+	text-align: center;
+}
+
+.h3Heading{
+	background: orange;
+	color: white;
+	padding: 8px;
+	border-radius: 5px;
+}
